@@ -1,4 +1,4 @@
-#include "controls.h"
+#include "pspcrtl"
 
 int num = 0;
 
