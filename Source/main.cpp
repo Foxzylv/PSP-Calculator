@@ -1,4 +1,4 @@
-#include "pspcrtl"
+#include "pspcrtl.h"
 
 int num = 0;
 
